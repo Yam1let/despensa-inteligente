@@ -1,11 +1,6 @@
 
 # Despensa Inteligente
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
 ## Descripción
 
 Despensa Inteligente es una aplicación web diseñada para optimizar la organización y administración de productos alimenticios en el hogar, facilitando el control de inventarios, el seguimiento de fechas de caducidad y la planificación de compras.
